@@ -1,0 +1,183 @@
+*{margin: 0px;padding: 0px;}
+
+header{}
+body{}
+.wrapper{width: 90%;
+        margin: 0 auto;
+        overflow: hidden;
+min-height: 70px;}
+
+.logo{float: left; width: 20%;}
+
+.logo h3{font-size: 30px;
+        font-family: font-family: 'Inconsolata', monospace;
+        padding-top: 16px;font-weight: lighter;}
+
+.manubar{min-height: 100px;
+        width: 40%;
+        float: right;}
+
+.manubar ul{list-style: none;}
+
+.manubar ul li{float: right;}
+
+.manubar ul li a{font-size: 14px;
+                color: #626262;
+                text-decoration: none;
+                font-weight: bold;
+                text-transform: uppercase;
+                padding: 30px 20px;
+                font-family: font-family: 'Playfair Display', serif;
+                display: block;
+                padding-top: 35px;}
+
+.manubar ul li a:hover{color: aqua;}
+
+.banner{}
+.banner img{width: 100%;}
+
+.content{padding: 50px 0px;}
+
+.wrapper2{}
+
+.wrapper3{width: 80%;margin: 0 auto;overflow: hidden;}
+
+
+.common_style{padding-top: 40px;
+              display: block;
+              color: #dbd8d2;
+              font-family:'Ubuntu', sans-serif lighter;
+              font-size: 14px;
+              text-transform: uppercase;}
+
+.wrapper3 h1{padding-bottom: 20px;
+            color: #626262;
+            font-family:'Playfair Display', serif;
+            font-size: 30px;
+            overflow: hidden; }
+
+.wrapper3 p1{margin-bottom: 20px;
+            display: block;color: #626262;
+            font-family: 'Playfair Display', serif;
+            line-height: 1.5;
+            font-size: 16px;}
+
+.leave{}
+
+.leave p1{padding-bottom: 20px;
+          display: block;
+          font-family:'Ubuntu', sans-serif;
+          font-size: 14px;color: #c8c3b9;}
+
+.blog{overflow: hidden;
+    margin-bottom: 50px;}
+
+.single{width: 48%;float: left;}
+
+.single img{width: 100%;}
+
+.single:nth-child(even){margin-left: 4%;}
+
+.blog2{padding: 60px 0px;}
+
+
+
+.form{overflow: hidden;
+           min-height: 300px;
+           background-color: #f0f0f0;}
+
+.sing{text-align: center;}
+
+.sing h1{font-size: 30px;
+         color:#333333;
+         font-family:'Playfair Display', serif;
+         font-weight: lighter;
+         padding:70px 0px;}
+
+.sing_up_form{width: 300px;
+              margin: 0 auto;
+              position: relative;}
+
+.sing_up_form input{border: none;
+                    background: transparent;
+                    border-bottom: 1px solid black;
+                    width: 300px;
+                    padding: 10px 2px;}
+
+.sing_up_form button {position: absolute;
+                      border: none;
+                      background: transparent;
+                      top: 10px;
+                      margin-left: 121px;}
+
+.border{min-height: 300px;
+        text-align: center;}
+
+.border button{width: 15%;
+               min-height: 70px;
+               margin: 80px 0px;}
+
+.border button:hover{background-color: red;
+                     transform: scale(1.3);
+                     border-radius: 10px;
+                     transition: 1s;}
+.border button a{font-size: 20px;
+                text-decoration: none;}
+
+.footer{min-height: 100px;
+        background-color: #f0f0f0;
+        overflow: hidden;}
+
+.tram-con{min-height: 50px;
+            width: 30%;
+            overflow: hidden;
+            margin-top: 40px;
+            position: relative;
+            float: left;}
+
+.term{min-height: 30px;
+     width: 60%;
+     float: left;}
+
+.term p{font-size: 14px;
+        color: #000000;
+        position: absolute;
+        margin-top: 2px;}
+
+.con p{min-height: 30px;
+        width: 38%;
+        position: absolute;
+        margin-right: 0px 10px;
+        margin-left: 130px;
+}
+
+.con p1{font-size: 14px;color: #000000;}
+
+
+
+.follow_social{position: relative;
+    width: 30%;
+    float: right;}
+
+.follow{width: 30%;
+        min-height: 40px;
+        float: left;
+        position: absolute;}
+
+.follow p{margin-left: 176px;
+           margin-top: 40px;}
+
+.social{width: 68%;
+        min-height: 30px;
+        float: right;
+        position: absolute;
+        overflow: hidden;
+        margin-left: 107px;}
+
+.media{float: right;}
+
+#first{margin: 40px 5px;}
+
+#scound{margin:40px 5px;}
+
+#thrid{margin: 40px 5px;}
